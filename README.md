@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Edgar
 - 👀 I’m interested in Anime, videogames, TCG games and AI's like 
-- ✨ I’m looking to collaborate on AI-based projects or...really any programming project.
+- ✨ I’m looking to collaborate on AI-based projects or...uh...well, really any programming project.
 - 📫 How to reach me: send me an e-mail to edgar.ortiz.her12@gmail.com
 
 <!---
